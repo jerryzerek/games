@@ -1,3 +1,5 @@
+package newJavaTicTac;
+
 public class Board {
     private Field[][] fields;
     private boolean blocked;

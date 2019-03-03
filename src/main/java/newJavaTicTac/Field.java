@@ -1,3 +1,5 @@
+package newJavaTicTac;
+
 public enum Field {
     FLD_EMPTY(" "),
     FLD_CIRCLE("O"),
